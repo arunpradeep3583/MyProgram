@@ -14,8 +14,8 @@ public class praticepgm {
 		obj.add("Pradeep");
 		System.out.println(obj);
 		
-		obj.add(0, "A");
-		System.out.println(obj);
+		//obj.add(0, "A");
+		//System.out.println(obj);
 		
 		
 		obj.remove("A");
